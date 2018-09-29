@@ -1,0 +1,11 @@
+h1 {
+    background-color: #4daba6;
+    height: 100%;
+    font-size: 1cm;
+    color: white;
+}
+
+#page-wrap {
+    width: 960px;
+    margin: 0 auto;
+}
